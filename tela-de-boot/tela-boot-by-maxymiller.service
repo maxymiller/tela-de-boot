@@ -1,0 +1,15 @@
+[Unit]
+Description="tela de boot by maxymiller"
+Before=graphical.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash ./boot.sh
+User=maxymiller
+WorkingDirectory=/home/maxymiller/Documentos/linuxcode/tela-de-boot
+TimeoutStartSec=0
+StandardInput=tty
+TTYPath=/dev/tty1
+
+[Install]
+WantedBy=graphical.target

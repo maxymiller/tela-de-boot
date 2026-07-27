@@ -1,0 +1,20 @@
+total 72
+drwxrwxr-x  3 maxymiller maxymiller 4096 mai  2 21:40 .
+drwxrwxr-x 15 maxymiller maxymiller 4096 fev  8 20:01 ..
+drwxrwxr-x  2 maxymiller maxymiller 4096 jan  9 00:17 backup
+-rwxrw-r--  1 maxymiller maxymiller   78 jan  8 10:58 boot.sh
+-rwxrw-r--  1 maxymiller maxymiller  941 jan  8 10:48 criar-neofetch.sh
+-rw-rw-r--  1 maxymiller maxymiller   17 mai  2 21:38 in.txt
+-rw-rw-r--  1 maxymiller maxymiller    0 mai  2 21:40 logLs.txt
+-rw-rw-r--  1 maxymiller maxymiller  701 jan  8 19:58 memo2.txt
+-rw-rw-r--  1 maxymiller maxymiller 1409 mai  2 21:38 memo.txt
+-rw-rw-r--  1 maxymiller maxymiller  664 jan  8 04:07 neofetch-teste.txt
+-rw-rw-r--  1 maxymiller maxymiller 1671 mai  2 21:38 neofetch.txt
+-rw-rw-r--  1 maxymiller maxymiller 1858 mai  2 21:38 out1.txt
+-rwxrw-r--  1 maxymiller maxymiller 2913 jan 14 14:36 start.sh
+-rw-rw-r--  1 maxymiller maxymiller  531 jan  9 00:37 tela2.txt
+-rw-rw-r--  1 maxymiller maxymiller  485 jan  9 00:13 tela3.txt
+-rw-rw-r--  1 maxymiller maxymiller  257 jan  9 00:05 tela4.txt
+-rw-rw-r--  1 maxymiller maxymiller  301 jan  8 16:41 tela-boot-by-maxymiller.service
+-rw-rw-r--  1 maxymiller maxymiller 2622 jan  8 17:10 tela.txt
+-rwxrw-r--  1 maxymiller maxymiller  106 jan  8 06:18 ver-line.sh

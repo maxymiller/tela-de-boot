@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal --full-screen -- /home/maxymiller/Documentos/linuxcode/tela-de-boot/boot.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=false
+Name[pt_BR]=tela de boot
+Name=tela de boot
+Comment[pt_BR]=ms-dos
+Comment=ms-dos
