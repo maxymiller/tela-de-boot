@@ -1,6 +1,6 @@
 # tela-de-boot
 
-Tela de boot inspirada no Windows 2000 para Linux (TTY).
+> Tela de boot inspirada no Windows 2000 para Linux (TTY).
 
 ![Demonstração](img/demo.gif)
 
