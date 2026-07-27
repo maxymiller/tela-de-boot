@@ -2,6 +2,8 @@
 
 Tela de boot inspirada no Windows 2000 para Linux (TTY).
 
+![Demonstração](img/demo.gif)
+
 ## Instalação
 
 Extraia os arquivos:
@@ -68,5 +70,6 @@ boot.sh
 ## Requisitos
 
 - Linux com systemd
-- Acesso root
+- Permissões de administrador (`sudo`)
 - TTY1 disponível
+- Disco rígido (HDD) recomendado
